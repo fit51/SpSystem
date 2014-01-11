@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:descendantFocusability="blocksDescendants"
+              android:layout_width="match_parent"
+              android:background="@color/blist"
+              android:id="@+id/mainpar"
+              android:layout_height="80dp">
+    <ImageView
+            android:layout_alignParentRight="true"
+            android:layout_width="20dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="2dp"
+            android:id="@+id/user_status"
+            android:src="@drawable/user3"/>
+    <RelativeLayout
+                  android:layout_alignParentLeft="true"
+                  android:layout_toLeftOf="@id/user_status"
+                  android:layout_width="match_parent"
+                  android:layout_marginLeft="10dp"
+                  android:layout_height="match_parent">
+
+        <RelativeLayout
+                android:layout_alignParentTop="true"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/firstl"
+                >
+            <TextView
+                    android:layout_alignParentLeft="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/datastart"
+                    android:textSize="10sp"
+                    android:textColor="@android:color/holo_blue_light"
+                    android:text="01.10.2013"/>
+            <TextView
+                    android:layout_alignParentRight="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="10sp"
+                    android:id="@+id/datastop"
+                    android:textColor="@android:color/holo_red_light"
+                    android:text="09.10.2013"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+
+                android:layout_alignParentBottom="true"
+                android:layout_width="match_parent"
+                android:layout_height="20sp"
+                android:id="@+id/second">
+            <TextView
+                    android:layout_alignParentLeft="true"
+                    android:layout_toLeftOf="@+id/withproc"
+                    style="@style/autoscroll"
+                    android:layout_centerVertical="true"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/theme"
+                    android:textSize="11sp"
+                    android:text="Программирование"
+                    android:textColor="#383838"/>
+            <RelativeLayout
+                    android:id="@+id/withproc"
+                    android:layout_alignParentRight="true"
+                    android:layout_width="120dp"
+                    android:layout_height="wrap_content"
+                    >
+                <ProgressBar
+                        android:layout_alignParentBottom="true"
+                        style="?android:attr/progressBarStyleHorizontal"
+                        android:layout_width="120dp"
+                        android:maxHeight="4dp"
+                        android:focusable="false"
+                        android:layout_marginBottom="2sp"
+                        android:minHeight="4dp"
+                        android:progress="75"
+                        android:id="@+id/progrerss_seek"
+                        android:layout_height="wrap_content"
+                        android:clickable="false"/>
+                <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@id/progrerss_seek"
+                        android:id="@+id/progrerss_text"
+                        android:gravity="center"
+                        android:text="75%"
+                        android:textSize="9sp"
+                        android:textColor="#383838"/>
+            </RelativeLayout>
+        </RelativeLayout>
+        <TextView
+                android:layout_below="@id/firstl"
+                android:layout_above="@id/second"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textAlignment="gravity"
+                android:gravity="center_vertical"
+                android:text="Тестирование оповещения по задачам"
+                android:id="@+id/label"
+                style="@android:style/Theme.Holo.Light"/>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>
