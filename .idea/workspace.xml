@@ -30,41 +30,44 @@
     <list default="true" id="67692e95-ecad-4878-8927-91757a5421e9" name="Default" comment="" />
     <ignored path="SpSystem.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/MyActivity.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389395009750" ignored="false" />
+    <file path="/MyActivity.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389780947595" ignored="false" />
     <file path="/TableActivity.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388787653398" ignored="false" />
     <file path="/Dummy.txt" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389355444505" ignored="false" />
     <file path="$USER_HOME$/Documents/IdeaProjects/SpSystem/src/activivties/TableActivity.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388779234500" ignored="false" />
-    <file path="/InsertTables.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388953021318" ignored="false" />
+    <file path="/InsertTables.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389476548222" ignored="false" />
     <file path="/MyDB.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388781235223" ignored="false" />
-    <file path="/MyTableItem.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389017126370" ignored="false" />
+    <file path="/MyTableItem.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1390564785900" ignored="false" />
     <file path="/HttpConn.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388835353941" ignored="false" />
     <file path="/MainActivity.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388787346118" ignored="false" />
-    <file path="/style.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389055161011" ignored="false" />
-    <file path="/AndroidManifest.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388787570205" ignored="false" />
-    <file path="/strings.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388940983511" ignored="false" />
+    <file path="/style.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389611971486" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389602494893" ignored="false" />
+    <file path="/strings.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389797668588" ignored="false" />
     <file path="$PROJECT_DIR$/../NavigationDrawer/src/com/example/android/navigationdrawerexample/MainActivity.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388834898062" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/modules.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388787543202" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/compiler.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388787543202" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/misc.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388787721119" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388953130160" ignored="false" />
     <file path="$PROJECT_DIR$/../NavigationDrawer/gen/com/example/android/navigationdrawerexample/R.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388787616396" ignored="false" />
-    <file path="/main.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388788152031" ignored="false" />
+    <file path="/main.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389798896721" ignored="false" />
     <file path="/a.dummy" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388837578231" ignored="false" />
-    <file path="/fragment.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388866708474" ignored="false" />
-    <file path="/GetTasks.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389391976864" ignored="false" />
-    <file path="/Factory.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1388941086732" ignored="false" />
+    <file path="/fragment.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389792404044" ignored="false" />
+    <file path="/GetTasks.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389478670867" ignored="false" />
+    <file path="/Factory.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389477647293" ignored="false" />
     <file path="/MyListFragment.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389361223866" ignored="false" />
     <file path="/rawlayout.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389362476345" ignored="false" />
     <file path="/color.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389047659088" ignored="false" />
     <file path="/fragment_1.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389049753540" ignored="false" />
     <file path="/selector.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389049700684" ignored="false" />
-    <file path="/MyTask.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389356041894" ignored="false" />
+    <file path="/MyTask.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389797738134" ignored="false" />
     <file path="/taskdetailefragment.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389355778482" ignored="false" />
     <file path="/MyFrameLayout.java" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389397225256" ignored="false" />
     <file path="/activity_main.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389395940711" ignored="false" />
     <file path="/slide_in_right.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389394144617" ignored="false" />
     <file path="/fragment_slide_left_enter.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389395372906" ignored="false" />
     <file path="/fragment_slide_left_exit.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389396346984" ignored="false" />
+    <file path="/styles_actionbar.xml" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1389611903332" ignored="false" />
+    <file path="$USER_HOME$/Documents/IdeaProjects/WebProject/example.php" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1390565309960" ignored="false" />
+    <file path="/example.php" changelist="67692e95-ecad-4878-8927-91757a5421e9" time="1390565309960" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +83,6 @@
   </component>
   <component name="DebuggerManager">
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -117,6 +119,7 @@
         <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -126,13 +129,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MyActivity.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MyActivity.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/activivties/MyActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="44" selection-start="2276" selection-end="2276" vertical-scroll-proportion="-9.821428">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="137" column="21" selection-start="4994" selection-end="4994" vertical-scroll-proportion="0.69756097">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -140,7 +141,7 @@
       <file leaf-file-name="activity_main.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="5" selection-start="1145" selection-end="1145" vertical-scroll-proportion="-0.39285713">
+            <state line="20" column="20" selection-start="891" selection-end="891" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -149,13 +150,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFrameLayout.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/subclasses/MyFrameLayout.java">
+      <file leaf-file-name="MyTask.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fragments/MyTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="56" selection-start="1387" selection-end="1387" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="24" column="44" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="item_detail.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/menu/item_detail.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/values/style.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="21" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -163,66 +180,46 @@
       <file leaf-file-name="GetTasks.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/kernel/database/GetTasks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="5" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0">
+            <state line="19" column="13" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Factory.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/kernel/Factory.java">
+      <file leaf-file-name="HahaDB.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kernel/database/HahaDB.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
+            <state line="27" column="49" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fragment_slide_left_enter.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/anim/fragment_slide_left_enter.xml">
+      <file leaf-file-name="MyTableItem.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kernel/tableitem/MyTableItem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="30" selection-start="735" selection-end="735" vertical-scroll-proportion="-12.32">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_slide_left_exit.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/res/anim/fragment_slide_left_exit.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="49" selection-start="491" selection-end="491" vertical-scroll-proportion="0.31428573">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_slide_right_enter.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/anim/fragment_slide_right_enter.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="6" selection-start="736" selection-end="736" vertical-scroll-proportion="-12.32">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_slide_right_exit.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/anim/fragment_slide_right_exit.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="6" selection-start="735" selection-end="735" vertical-scroll-proportion="-12.32">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyListFragment.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/fragments/MyListFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="106" column="0" selection-start="3371" selection-end="3371" vertical-scroll-proportion="0.0">
+            <state line="50" column="11" selection-start="1224" selection-end="1546" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#3786#4025#0" expanded="true" />
-                <element signature="e#4010#4011#0" expanded="true" />
+                <marker date="1389017246244" expanded="true" signature="1223:1476" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="igivejson.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/IdeaProjects/WebProject/igivejson.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="32" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Скрипты для модуля Задачи.sql" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/kernel/Скрипты для модуля Задачи.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="174" column="0" selection-start="7239" selection-end="7734" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -237,22 +234,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/res/anim/fadeout.xml" />
-        <option value="$PROJECT_DIR$/res/anim/fadein.xml" />
-        <option value="$PROJECT_DIR$/res/anim/slide_ou_right.xml" />
-        <option value="$PROJECT_DIR$/res/anim/slide_in_right_anim.xml" />
-        <option value="$PROJECT_DIR$/src/kernel/database/GetTasks.java" />
-        <option value="$PROJECT_DIR$/src/fragments/MyListFragment.java" />
-        <option value="$PROJECT_DIR$/res/anim/slide_in_left.xml" />
-        <option value="$PROJECT_DIR$/res/anim/slide_out_right.xml" />
-        <option value="$PROJECT_DIR$/res/anim/slide_in_right.xml" />
-        <option value="$PROJECT_DIR$/res/anim/fragment_slide_right_enter.xml" />
-        <option value="$PROJECT_DIR$/res/anim/fragment_slide_right_exit.xml" />
-        <option value="$PROJECT_DIR$/src/activivties/MyActivity.java" />
-        <option value="$PROJECT_DIR$/res/anim/fragment_slide_left_enter.xml" />
         <option value="$PROJECT_DIR$/src/subclasses/MyFrameLayout.java" />
         <option value="$PROJECT_DIR$/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/res/anim/fragment_slide_left_exit.xml" />
+        <option value="$PROJECT_DIR$/res/layout/fragment_1.xml" />
+        <option value="$PROJECT_DIR$/src/kernel/database/GetTasks.java" />
+        <option value="$PROJECT_DIR$/src/kernel/Factory.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/res/values/styles_actionbar.xml" />
+        <option value="$PROJECT_DIR$/res/values/style.xml" />
+        <option value="$PROJECT_DIR$/src/activivties/MyActivity.java" />
+        <option value="$PROJECT_DIR$/src/kernel/database/InsertTables.java" />
+        <option value="$PROJECT_DIR$/res/menu/item_detail.xml" />
+        <option value="$PROJECT_DIR$/src/fragments/MyTask.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/res/menu/main.xml" />
+        <option value="$PROJECT_DIR$/src/kernel/tableitem/MyTableItem.java" />
       </list>
     </option>
   </component>
@@ -309,8 +306,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -401,6 +398,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="kernel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="connection" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SpSystem" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="intefaces" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -454,24 +473,6 @@
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpSystem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpSystem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -487,47 +488,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpSystem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpSystem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpSystem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpSystem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="gen" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SpSystem" />
+              <option name="myItemId" value="menu" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -542,7 +503,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NavigationDrawer" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/IdeaProjects/WebProject" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
@@ -688,8 +649,8 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
-      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
-      <option name="PREFERRED_AVD" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="AVD_for_Nexus_S_by_Google" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
       <option name="WIPE_USER_DATA" value="false" />
@@ -735,38 +696,58 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18657565" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3890785" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.021615472" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39021614" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42434585" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.8122867" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18771331" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.8122867" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.74288964" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18771331" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.8122867" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.8122867" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992035" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25711036" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -839,16 +820,31 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/drawable/selector.xml">
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/btn_cab_done_pressed_actionbar.9.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/btn_cab_done_actionbar.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="39" selection-start="188" selection-end="188" vertical-scroll-proportion="-2.64">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/styles_actionbar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="100" selection-start="591" selection-end="591" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kernel/database/InsertTables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="340" column="47" selection-start="23535" selection-end="23535" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/fragment_1.xml">
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="37" selection-start="462" selection-end="491" vertical-scroll-proportion="-3.9285715">
+        <state line="20" column="20" selection-start="891" selection-end="891" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -856,100 +852,82 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/rawlayout.xml">
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="43" selection-start="158" selection-end="158" vertical-scroll-proportion="-1.1785715">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
+        <state line="38" column="18" selection-start="1474" selection-end="1474" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/android-sdk/platforms/android-17/data/res/anim/linear_interpolator.xml">
+    <entry file="file://$PROJECT_DIR$/res/menu/item_detail.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="3" column="0" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/kernel/Factory.java">
+    <entry file="file://$PROJECT_DIR$/src/fragments/MyTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
+        <state line="24" column="44" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/style.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="21" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/menu/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="91" selection-start="350" selection-end="350" vertical-scroll-proportion="-3.84">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/kernel/database/GetTasks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="5" selection-start="915" selection-end="915" vertical-scroll-proportion="0.0">
+        <state line="19" column="13" selection-start="485" selection-end="485" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/anim/fragment_slide_right_exit.xml">
+    <entry file="file://$USER_HOME$/Documents/IdeaProjects/WebProject/igivejson.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="6" selection-start="735" selection-end="735" vertical-scroll-proportion="-12.32">
+        <state line="13" column="32" selection-start="295" selection-end="295" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/anim/fragment_slide_left_enter.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="30" selection-start="735" selection-end="735" vertical-scroll-proportion="-12.32">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/anim/fragment_slide_right_enter.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="6" selection-start="736" selection-end="736" vertical-scroll-proportion="-12.32">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fragments/MyListFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="0" selection-start="3371" selection-end="3371" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3786#4025#0" expanded="true" />
-            <element signature="e#4010#4011#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="5" selection-start="1145" selection-end="1145" vertical-scroll-proportion="-0.39285713">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/subclasses/MyFrameLayout.java">
+    <entry file="file://$PROJECT_DIR$/src/kernel/Скрипты для модуля Задачи.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="56" selection-start="1387" selection-end="1387" vertical-scroll-proportion="0.0">
+        <state line="174" column="0" selection-start="7239" selection-end="7734" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kernel/tableitem/MyTableItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="11" selection-start="1224" selection-end="1546" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="imports" expanded="true" />
+            <marker date="1389017246244" expanded="true" signature="1223:1476" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kernel/database/HahaDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="49" selection-start="758" selection-end="758" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/activivties/MyActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="44" selection-start="2276" selection-end="2276" vertical-scroll-proportion="-9.821428">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/anim/fragment_slide_left_exit.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="49" selection-start="491" selection-end="491" vertical-scroll-proportion="0.31428573">
+        <state line="137" column="21" selection-start="4994" selection-end="4994" vertical-scroll-proportion="0.69756097">
           <folding />
         </state>
       </provider>

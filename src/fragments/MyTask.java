@@ -2,9 +2,7 @@ package fragments;
 
 import android.app.Fragment;
 import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
+import android.view.*;
 import android.widget.TextView;
 import com.example.android.SpSystem.R;
 
@@ -17,8 +15,16 @@ public class MyTask
     }
   public View onCreateView(LayoutInflater paramLayoutInflater, ViewGroup paramViewGroup, Bundle paramBundle)
   {
+    setHasOptionsMenu(true);
     return paramLayoutInflater.inflate(R.layout.taskdetailefragment, paramViewGroup, false);
   }
+
+    @Override
+    public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
+        getActivity().getActionBar().setDisplayShowTitleEnabled(false);
+        inflater.inflate(R.id.edit_item,menu);
+        super.onCreateOptionsMenu(menu, inflater);    //To change body of overridden methods use File | Settings | File Templates.
+    }
 
     @Override
     public void onActivityCreated(Bundle savedInstanceState) {

@@ -23,14 +23,15 @@ public class GetTasks {
         ArrayList<MyTableItem> list = new ArrayList<MyTableItem>();
 
         SQLiteDatabase db = Factory.MyDB.getDb();
-        String[] columns = {"ID", "Theme","Name", "Description", "StartDate", "AssigneePersonNo", "ReporterClientNo", "PriorityNo", "StatusNo"};
+        String[] columns = {"ID", "Theme","Name", "Description", "CreationTime", "AssigneePersonNo", "ReporterClientNo", "PriorityNo", "StatusNo"};
         String[] columns2 = {"LastName", "FirstName" , "MiddleName"};
         Cursor c = db.query(Factory._context.getString(R.string.t_Task),columns,null,null,null,null,null);
+        if(c!=null && c.getCount()>0){
         int iId = c.getColumnIndex("ID");
         int iTheme = c.getColumnIndex("Theme");
         int iName = c.getColumnIndex("Name");
         int iDescription = c.getColumnIndex("Description");
-        int iStartDate = c.getColumnIndex("StartDate");
+        int iStartDate = c.getColumnIndex("CreationTime");
         int iAssigneePersonNo = c.getColumnIndex("AssigneePersonNo");
         int iReporterClientNo = c.getColumnIndex("ReporterClientNo");
         int iPriorityNo = c.getColumnIndex("PriorityNo");
@@ -57,7 +58,9 @@ public class GetTasks {
                 e.printStackTrace();
             }
         }
-        MyTableItem[] it  = new MyTableItem[list.size()];
-        alltasks = list.toArray(it);
+            MyTableItem[] it  = new MyTableItem[list.size()];
+            alltasks = list.toArray(it);
+        }
+
     }
 }

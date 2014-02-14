@@ -327,12 +327,13 @@ public class InsertTables
   {
     try
     {
+//        DeleteTableData();
 //      SelectIntoLog();
-//        InsertTask();
-//        InsertPerson();
-//        InsertClient();
-//        InsertTaskViewers();
-//        InsertTaskStatusHistory();
+        InsertTask();
+        InsertPerson();
+        InsertClient();
+        InsertTaskViewers();
+        InsertTaskStatusHistory();
       return null;
     }
     catch (SQLiteException localSQLiteException)

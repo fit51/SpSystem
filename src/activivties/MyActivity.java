@@ -97,7 +97,6 @@ public class MyActivity
     Context[] arrayOfContext = {mContext};
     _factory.execute(arrayOfContext);
 
-
     getActionBar().setDisplayHomeAsUpEnabled(true);
     getActionBar().setHomeButtonEnabled(true);
 
@@ -141,6 +140,10 @@ public class MyActivity
           Object[] arrayOfObject = new Object[1];
           arrayOfObject[0] = 0;
           localInsertTables.execute(arrayOfObject);
+          return true;
+        case R.id.menu_settings:
+
+          return true;
       default:
             return super.onOptionsItemSelected(paramMenuItem);
     }

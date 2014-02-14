@@ -15,11 +15,11 @@
             android:dividerHeight="1dip"
             android:layout_height="match_parent">
     </ListView>
-    <!--<TextView-->
-            <!--android:id="@id/android:empty"-->
-            <!--android:layout_width="match_parent"-->
-            <!--android:layout_height="match_parent"-->
-            <!--android:gravity="center"-->
-            <!--android:text="Обновите таблицы"/>-->
+    <TextView
+            android:id="@id/android:empty"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Обновите таблицы"/>
 
 </LinearLayout>

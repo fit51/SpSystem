@@ -15,6 +15,7 @@ public class Factory
   {
     _context = paramContext;
     MyDB = new MyDB();
+//      DropTables();
     MyDB.CreateTable(_context.getString(R.string.t_Task));
     MyDB.CreateTable(_context.getString(R.string.t_TaskStatusHistory));
     MyDB.CreateTable(_context.getString(R.string.t_TaskViewers));
@@ -25,8 +26,18 @@ public class Factory
   protected Void doInBackground(Context... paramVarArgs)
   {
     InitFactory(paramVarArgs[0]);
+
     return null;
   }
+
+    private static void DropTables(){
+        MyDB.getDb().execSQL("DROP TABLE IF EXISTS " +_context.getString(R.string.t_Task));
+        MyDB.getDb().execSQL("DROP TABLE IF EXISTS " +_context.getString(R.string.t_TaskStatusHistory));
+        MyDB.getDb().execSQL("DROP TABLE IF EXISTS " +_context.getString(R.string.t_TaskViewers));
+        MyDB.getDb().execSQL("DROP TABLE IF EXISTS " +_context.getString(R.string.t_Person));
+        MyDB.getDb().execSQL("DROP TABLE IF EXISTS " +_context.getString(R.string.t_Client));
+    }
+
 }
 
 

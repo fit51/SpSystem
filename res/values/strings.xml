@@ -33,5 +33,8 @@
     <string name="t_TaskViewers">TaskViewers</string>
     <string name="t_Person">Person</string>
     <string name="t_Client">Client</string>
-
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_actionmode">Action Mode</string>
+    <string name="menu_refresh">Обновить</string>
+    <string name="edit_item">Внести изменения</string>
 </resources>
